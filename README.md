@@ -1,100 +1,95 @@
-<h1 align="center">Hola, soy TU_NOMBRE 👋</h1>
+<h1 align="center">Hola, soy Alejandro López</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Transformando+datos+en+decisiones;Modelos+que+llegan+a+producci%C3%B3n;Siempre+aprendiendo+y+construyendo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Estudiante+de+Ciencia+e+Ingenier%C3%ADa+de+Datos;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Redes+Neuronales;Network+Science%3A+analizando+sistemas+como+redes;Programando+agentes+de+IA+especializados;Transformando+datos+en+decisiones" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.kaggle.com/TU_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-sanchez-sierra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-- 🔭 Actualmente trabajo en **[proyecto / empresa]**
-- 🧠 Especializado en **Machine Learning, análisis de datos e IA aplicada**
-- 🌱 Aprendiendo sobre **MLOps, LLMs y sistemas de recomendación**
-- 📊 Me apasiona convertir datos complejos en información accionable
-- 📍 Basado en **Madrid, España**
-- 💬 Pregúntame sobre **Python, modelos predictivos, NLP o visualización de datos**
+Soy estudiante de **Ciencia e Ingeniería de Datos** en la **Universidad CEU**. Me apasiona el **Machine Learning, el Deep Learning y las redes neuronales**, y siento una especial fascinación por la **Network Science**: analizar y modelar sistemas complejos como redes. Me gusta convertir datos complejos en información que ayude a tomar decisiones, y conozco los servicios de datos de **AWS** y **Google Cloud**. También diseño y programo **agentes de IA especializados**, como **TARS**, un asistente personal para CachyOS. Además, sé desarrollar aplicaciones web, como [Dabel Control](https://dabelcontrol.com).
+
+### En qué me enfoco
+
+| ![Machine Learning](https://img.shields.io/badge/machine_%26_deep_learning-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white) | ![Network Science](https://img.shields.io/badge/network_science-0A66C2?style=for-the-badge&logo=gephi&logoColor=white) | ![Data Analysis](https://img.shields.io/badge/data_analysis-0A66C2?style=for-the-badge&logo=pandas&logoColor=white) | ![AI Agents](https://img.shields.io/badge/ai_agents-0A66C2?style=for-the-badge&logo=probot&logoColor=white) |
+|:---:|:---:|:---:|:---:|
+| Modelos predictivos y redes neuronales | Análisis y modelado de sistemas complejos como redes | Exploración, visualización y storytelling con datos | Agentes especializados con un propósito y herramientas propias |
 
 ---
 
-## 🛠️ Stack tecnológico
+## Agentes de IA
+
+Diseño y programo agentes de IA especializados: asistentes con un propósito concreto y acceso a las herramientas que necesitan para cumplirlo, en lugar de un chatbot genérico. TARS es uno de varios proyectos de este tipo.
+
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img src="https://img.shields.io/badge/TARS-0A66C2?style=for-the-badge&logo=probot&logoColor=white" alt="TARS"/>
+    </td>
+    <td>
+      <b>TARS</b>: asistente personal de IA para <b>CachyOS</b>, pensado para integrarse con el sistema y ayudar en el día a día.<br/><br/>
+      <img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS"/>
+      <img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+      <img src="https://img.shields.io/badge/AI%20Agent-0A66C2?style=flat-square&logo=probot&logoColor=white" alt="AI Agent"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack tecnológico
 
 **Lenguajes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Machine Learning & IA**
+**Machine Learning & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Análisis de datos & visualización**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Datos, Cloud & MLOps**
+**Cloud, Big Data & MLOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+**Herramientas de IA en mi flujo de trabajo**
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1F2937?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**Nombre del proyecto 1**](https://github.com/TU_USUARIO/proyecto-1) | Modelo de predicción de churn con un 92 % de accuracy | `Python` `XGBoost` `MLflow` |
-| [**Nombre del proyecto 2**](https://github.com/TU_USUARIO/proyecto-2) | Clasificador de texto con transformers (NLP) | `PyTorch` `Hugging Face` |
-| [**Nombre del proyecto 3**](https://github.com/TU_USUARIO/proyecto-3) | Dashboard interactivo de análisis de ventas | `Pandas` `Plotly` `Streamlit` |
+## Colaboremos
 
----
-
-## 🎓 Formación y certificaciones
-
-- 🎓 **[Título universitario]** · [Universidad] · [Año]
-- 📜 **[Certificación 1]** · [Entidad emisora]
-- 📜 **[Certificación 2]** · [Entidad emisora]
-
----
-
-## 🤝 Colaboremos
-
-Estoy abierto a colaborar en proyectos de **ciencia de datos, IA y open source**. Si tienes una idea o quieres charlar sobre datos, escríbeme por [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN) o por [email](mailto:tu@email.com).
+Estoy abierto a colaborar en proyectos de **ciencia de datos, IA y análisis de redes**. Si quieres charlar sobre datos o tienes una idea, escríbeme por [LinkedIn](https://www.linkedin.com/in/alejandro-l%C3%B3pez-sanchez-sierra/).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" alt="footer" />
