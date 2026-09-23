@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Science+and+Engineering+Student;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Neural+Networks;Network+Science%3A+analyzing+systems+as+networks;Building+specialized+AI+agents;Turning+data+into+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Science+and+Engineering+Student;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Neural+Networks" alt="Typing SVG" />
   </a>
 </p>
 
