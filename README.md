@@ -12,12 +12,6 @@
 
 I'm a **Data Science and Engineering** student at **CEU University**. I'm passionate about **Machine Learning, Deep Learning and neural networks**, and I'm especially fascinated by **Network Science**: analyzing and modeling complex systems as networks. I enjoy turning complex data into insights that support decision-making, and I'm familiar with the data services of **AWS** and **Google Cloud**. I also design and build **specialized AI agents**, such as **TARS**, a personal assistant for CachyOS. I can also develop web applications, like [Dabel Control](https://dabelcontrol.com).
 
-### What I focus on
-
-| ![Machine Learning](https://img.shields.io/badge/machine_%26_deep_learning-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white) | ![Network Science](https://img.shields.io/badge/network_science-0A66C2?style=for-the-badge&logo=gephi&logoColor=white) | ![Data Analysis](https://img.shields.io/badge/data_analysis-0A66C2?style=for-the-badge&logo=pandas&logoColor=white) | ![AI Agents](https://img.shields.io/badge/ai_agents-0A66C2?style=for-the-badge&logo=probot&logoColor=white) |
-|:---:|:---:|:---:|:---:|
-| Predictive models and neural networks | Analysis and modeling of complex systems as networks | Exploration, visualization and data storytelling | Specialized agents with a clear purpose and their own tools |
-
 ---
 
 ## Tech Stack
