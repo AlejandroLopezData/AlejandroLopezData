@@ -24,26 +24,6 @@ I'm a **Data Science and Engineering** student at **CEU University**. I'm passio
 
 ---
 
-## AI Agents
-
-I design and build specialized AI agents: assistants with a specific purpose and access to the tools they need to fulfill it, rather than a generic chatbot. TARS is one of several projects of this kind.
-
-<table>
-  <tr>
-    <td width="140" align="center">
-      <img src="https://img.shields.io/badge/TARS-0A66C2?style=for-the-badge&logo=probot&logoColor=white" alt="TARS"/>
-    </td>
-    <td>
-      <b>TARS</b>: a personal AI assistant for <b>CachyOS</b>, designed to integrate with the system and help with everyday tasks.<br/><br/>
-      <img src="https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="CachyOS"/>
-      <img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-      <img src="https://img.shields.io/badge/AI%20Agent-0A66C2?style=flat-square&logo=probot&logoColor=white" alt="AI Agent"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -63,18 +43,19 @@ I design and build specialized AI agents: assistants with a specific purpose and
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-**Cloud, Big Data & MLOps**
+**Cloud & Data Engineering**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Development & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **AI tools in my workflow**
