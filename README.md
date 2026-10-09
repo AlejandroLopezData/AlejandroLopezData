@@ -10,7 +10,7 @@
 
 ## About me
 
-I’m a **Data Science and Engineering** student at CEU University. I enjoy programming and experimenting with machine learning models, understanding how they work, exploring new approaches, and applying them to solve real-world problems. I’m particularly interested in developing models that turn research and experimentation into practical, useful results.
+I’m a Data Science and Engineering student at CEU University. I enjoy programming and experimenting with machine learning models, understanding how they work, exploring new approaches, and applying them to solve real-world problems. I’m also interested in Network Science, particularly in analyzing and modeling networks to understand complex systems and their behavior. I like turning research and experimentation into practical, useful results.
 
 ---
 
