@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a **Data Science and Engineering** student at **CEU University**. I'm passionate about **Machine Learning, Deep Learning and neural networks**, and I'm especially fascinated by **Network Science**: analyzing and modeling complex systems as networks. I enjoy turning complex data into insights that support decision-making, and I'm familiar with the data services of **AWS** and **Google Cloud**. I also design and build **specialized AI agents**, such as **TARS**, a personal assistant for CachyOS. I can also develop web applications, like [Dabel Control](https://dabelcontrol.com).
+I’m a **Data Science and Engineering** student at CEU University. I enjoy programming and experimenting with machine learning models, understanding how they work, exploring new approaches, and applying them to solve real-world problems. I’m particularly interested in developing models that turn research and experimentation into practical, useful results.
 
 ---
 
